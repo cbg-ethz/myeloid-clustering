@@ -1,0 +1,5 @@
+
+k <- 26
+chi<-10
+source("cluster_script.R")
+

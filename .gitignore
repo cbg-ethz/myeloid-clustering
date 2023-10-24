@@ -1,0 +1,4 @@
+
+*.history
+*.Rhistory
+*.DS_Store
