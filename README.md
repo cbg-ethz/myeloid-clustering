@@ -14,10 +14,10 @@ We have also developed an online tool for the classification of new patients acr
 
 ### Software
 
-The software is available as an R package, which is hosted on CRAN. For more information on how to use this software, including installation, dependencies and application, please refer to our detailed documentation.
-- CRAN Package: [clustNet](https://CRAN.R-project.org/package=clustNet)
-- Documentation: Software Documentation  [Software Documentation (PDF)](https://cran.r-project.org/web/packages/clustNet/clustNet.pdf/)
-
+The software is available as an R package, which is hosted on CRAN. For more information on how to use this software, including installation, system requirements and application, please refer to our detailed documentation.
+- CRAN Package: [Software Package](https://CRAN.R-project.org/package=clustNet)
+- Installation and Example: [Code Demo](https://github.com/cbg-ethz/clustNet/blob/main/README.md)
+- Documentation:  [Software Documentation (PDF)](https://cran.r-project.org/web/packages/clustNet/clustNet.pdf/)
 
 ![Screenshot 2023-10-31 at 08 46 43](https://github.com/cbg-ethz/myeloid-clustering/assets/38718986/b3a6c5a6-0bf1-491a-a496-e86c5dd58b76)
 
