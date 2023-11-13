@@ -6,13 +6,20 @@ Bayer et al. 2023, "Network-based clustering unveils interconnected landscapes o
 
 https://doi.org/10.1101/2023.10.25.563992
 
-## Online Tool
+### Online Tool
 
 We have also developed an online tool for the classification of new patients across myeloid malignancies. Access it here:
 
 [Myeloid Malignancies Prediction Tool](https://cbg.bsse.ethz.ch/myeloid-prediction/)
 
+### Software
+
+The software is available as an R package, which is hosted on CRAN. For more information on how to use this software, including installation, dependencies and application, please refer to our detailed documentation.
+- CRAN Package: [clustNet](https://CRAN.R-project.org/package=clustNet)
+- Documentation: Software Documentation  [Software Documentation (PDF)](https://cran.r-project.org/web/packages/clustNet/clustNet.pdf/)
+
+
 ![Screenshot 2023-10-31 at 08 46 43](https://github.com/cbg-ethz/myeloid-clustering/assets/38718986/b3a6c5a6-0bf1-491a-a496-e86c5dd58b76)
 
-## License
+### License
 GNU GPL (see [LICENSE](LICENSE) file for more details)
