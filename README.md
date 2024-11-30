@@ -10,7 +10,7 @@ https://doi.org/10.1101/2023.10.25.563992
 
 We have also developed an online tool for the classification of new patients across myeloid malignancies. Access it here:
 
-[Myeloid Malignancies Prediction Tool](https://cbg.bsse.ethz.ch/myeloid-prediction/)
+[Myeloid Malignancies Prediction Tool](https://myeloid-prediction.ethz.ch/)
 
 ### Software
 
